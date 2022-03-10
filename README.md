@@ -1,4 +1,3 @@
 # ossPractice
 
-안녕
-print("ㅎㅇ")
+git 설치하기
