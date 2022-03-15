@@ -2,8 +2,11 @@
 
 ## Header 1
 
-Today is *March*/**fifteen**
+**Today** is *March/fifteen*
 
-- item 1
-- item 2
-- item 3
+study is
+
+- OSS 개발
+- 확률 및 통계
+- 수리논리학
+- 지식재산개론
